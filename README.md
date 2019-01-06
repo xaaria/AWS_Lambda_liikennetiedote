@@ -1,6 +1,6 @@
 # AWS_Lambda_liikennetiedote
 
-> Huom! Puhtaasi testimielesstä tehty koodi! 
+> Huom! Puhtaasi testimielessä tehty koodinpätkä! 
 
 AWS:n Lambda -palvelussa [1] pyörivä ajastettu (X min välein) yksinkertainen Python-scripti
 (käytetty AWS:n Boto3-kirjastoa), joka tutkailee valtatie 9:n tiesensorin tietoja keskinopeudesta (viimeisin 5 min)
