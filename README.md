@@ -1,6 +1,7 @@
 # AWS_Lambda_liikennetiedote
 
 > Huom! Puhtaasi testimielessä tehty koodinpätkä! 
+<img src="https://github.com/xaaria/AWS_Lambda_liikennetiedote/blob/master/2357920222.jpg" width="400" alt="foo">
 
 AWS:n Lambda -palvelussa [1] pyörivä ajastettu yksinkertainen Python-scripti
 (käytetty AWS:n _Boto3_-kirjastoa), joka tutkailee valtatie 9:n tiesensorin tietoja keskinopeudesta (viimeisin 5 min),
